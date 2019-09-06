@@ -30,7 +30,7 @@ print(lorena.telefone)
 print(lorena.idade, lorena.cpf)
 print(lorena.cpf)
 
-# class PessoaJurdica(Pessoa):
+# class PessoaJuridica(Pessoa):
 #     nomefantasia = ''
 #     cnpj = 0
 
@@ -41,7 +41,7 @@ print(lorena.cpf)
 
 
 # henrique = PessoaFisica("henrique", 29)
-# mentors = PessoaJurdica("Mentors")
+# mentors = PessoaJuridica("Mentors")
 
 # print(henrique)
 # print(mentors)

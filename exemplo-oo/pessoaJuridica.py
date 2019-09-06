@@ -1,6 +1,6 @@
 from pessoa import Pessoa
 
-class PessoaJurdica(Pessoa):
+class PessoaJuridica(Pessoa):
     nomefantasia = ''
     cnpj = ''
 
