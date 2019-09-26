@@ -1,5 +1,6 @@
 # Técnico em Desenvolvimento de Sistemas
 
+## Programa
     Objetivo Geral: Propiciar desenvolvimento de capacidades técnicas e de gestão requeridas para
     desenvolvimento de sistemas por meio de linguagem de programação, de acordo padrão de qualidade,
     robustez, integridade e segurança.
@@ -190,6 +191,8 @@
 - https://docs.djangoproject.com/en/2.2/topics/http/urls/
 
 ### Django req/res cycle img
+![django-life-cycle](https://i.stack.imgur.com/rLfSC.jpg)
+
 
 ### Apps
 - *SQLite*
@@ -203,6 +206,12 @@
 - Brincado com nosso model
     -       $ python manage.py shell
 
+- Personalizando Django
+    - fields
+    - list_display
+    - list_filter
+    - search_fields
+
 ### Projeto petshop
 - criar um repo no git hub para cada equipe
 - start no projeto
@@ -211,6 +220,8 @@
 
 
 # Aula 7 - Continuação projeto petshop
+- criar pagina Home bootstrap admin
+- criar esquema de templates
 # Aula 8
 # Aula 9
 # Aula 10
