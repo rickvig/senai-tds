@@ -184,7 +184,6 @@
 - Grupos.
 - login/logout
 
-
 ### Url Partterns and Views
 - functions based view
 - fat model skinny controllers
@@ -192,7 +191,6 @@
 
 ### Django req/res cycle img
 ![django-life-cycle](https://i.stack.imgur.com/rLfSC.jpg)
-
 
 ### Apps
 - *SQLite*
@@ -215,13 +213,46 @@
 ### Projeto petshop
 - criar um repo no git hub para cada equipe
 - start no projeto
-- criação das classes e seus relacionamentes de models (DER)
 - criação dos CRUD de admin
+- criação das classes e seus relacionamentes de models (DER)
 
 
 # Aula 7 - Continuação projeto petshop
+
+### Django req/res cycle img
+![django-life-cycle](https://i.stack.imgur.com/rLfSC.jpg)
+
+
+### Url Partterns, Views and Templates
+- functions based view
+- fat model skinny controllers
+- https://docs.djangoproject.com/en/2.2/topics/http/urls/
+
+
+### Apps
+- *SQLite*
+    -       $ python manage.py startapp <sua-app>
+- mover views
+- add app em INSTALLED_APPS (settings.py)
+    -       $ python manage.py runserver
+- Criar model
+    -       $ python manage.py makemigrations
+    -       $ python manage.py migrate
+- Brincado com nosso model
+    -       $ python manage.py shell
+
+- Personalizando Django
+    - fields
+    - list_display
+    - list_filter
+    - search_fields
+
+### PETSHOP
+- criação das classes e seus relacionamentes de models (DER)
 - criar pagina Home bootstrap admin
 - criar esquema de templates
+
+
 # Aula 8
 # Aula 9
 # Aula 10
