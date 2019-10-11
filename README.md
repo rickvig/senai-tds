@@ -190,6 +190,14 @@ Django req/res cycle img
 
 # Aula 7 - Continuação Projeto petshop
 
+### PETSHOP
+- criação das classes e seus relacionamentes de models (DER) - DEFINITIVO
+- criar pagina Home bootstrap admin
+- criar esquema de templates
+
+
+# Aula 8
+
 ### Django req/res cycle img
 ![django-life-cycle](https://i.stack.imgur.com/rLfSC.jpg)
 
@@ -204,12 +212,9 @@ Django req/res cycle img
     -       $ python manage.py shell
 
 ### PETSHOP
-- criação das classes e seus relacionamentes de models (DER) - DEFINITIVO
 - criar pagina Home bootstrap admin
 - criar esquema de templates
 
-
-# Aula 8
 # Aula 9
 # Aula 10
 # Aula 11
@@ -222,3 +227,20 @@ Django req/res cycle img
 # Aula 18
 # Aula 19
 # Aula 20
+
+# Equipes:
+
+## Time 1 - Frente de caixa (Cadasros)
+- Yuri
+- Gustavo
+- Ricardo
+- Luan
+## Time 2 - Banho e tosa
+- Henrique
+- Lucas
+- Victor
+- Carlos
+## Time 3 - Financeiro e estoqe
+- Andriw
+- Diego
+- Rodrigo
