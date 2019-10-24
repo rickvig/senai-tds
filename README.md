@@ -49,7 +49,7 @@ Planejamento Estratégico: conceitos
 Visão Sistêmica
 - Conceito;
 - Microcosmo e macrocosmo;
-- Pensamentosistêmico.
+- Pensamento sistêmico.
 
 
 ### Capacidades Técnicas:
@@ -67,7 +67,7 @@ Visão Sistêmica
 2.1 .3 Utilizando linguagens de programação
 - Identificar metodologia de desenvolvimento de sistemas 
 - Aplicar metodologia de desenvolvimento de acordo com o escopo do projeto 
-- Selecionar ferramentas de gerenciamento na aplicação da metodologia
+- Selecionar ferramentas de gerênciamento na aplicação da metodologia
 - Definir cronograma de atividades, de acordo com a metodologia
 
 
@@ -80,12 +80,12 @@ Visão Sistêmica
 
 ## Aula 2 - SCM com Git e finalizando OO
 - Repositório Git
-- Finalizar exempo de herança e aplicar exercio de contaBancaria
+- Finalizar exemplo de herança e aplicar exercício de contaBancaria
 
 
 ## Aula 3 - Desenvolvimento Web (fundamentos web, HTML, CSS, JS - ) e conceitos MVC e MTV
 - Repositório Git
-- Finalizar exempo de herança e aplicar exercio de contaBancaria
+- Finalizar exemplo de herança e aplicar exercício de contaBancaria
 - Overview - Tipos de sistemas 
     - Dasktop
         - Cada linguagem possui sua ferramentas
@@ -181,7 +181,7 @@ Django req/res cycle img
     - list_filter
     - search_fields
 
-### Projeto petshop
+### Projeto PETSHOP
 - criar um repo no git hub para cada equipe
 - start no projeto
 - criação dos CRUD de admin
@@ -191,15 +191,48 @@ Django req/res cycle img
 # Aula 7 - Continuação Projeto petshop
 
 ### PETSHOP
-- criação das classes e seus relacionamentes de models (DER) - DEFINITIVO
-- criar pagina Home bootstrap admin
-- criar esquema de templates
+- trabalhando com versionamento
+- criação das classes e seus relacionamentes de models (DER)
 
 
 # Aula 8
 
+### PETSHOP
+- trabalhando com versionamento
+- criação das classes e seus relacionamentes de models (DER) - em equipe
+
+
+# Aula 9
+
+### PETSHOP
+- trabalhando com versionamento
+- criação das classes e seus relacionamentos de models (DER) - DEFINITIVO PARTE I
+- exercício de desenvolvimento dos modelos e suas regras
+
+
+# Aula 10
+
+### PETSHOP
+- trabalhando com versionamento
+- criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE II
+- correção do exercício de desenvolvimento dos modelos e suas regras no formato Code Review
+
+# Aula 11
+
+### PETSHOP
+- trabalhando com versionamento
+- criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE II
+- correção do exercício de desenvolvimento dos modelos e suas regras no formato Code Review
+
+
+# Aula 12
+
 ### Django req/res cycle img
 ![django-life-cycle](https://i.stack.imgur.com/rLfSC.jpg)
+
+    git add .
+    git commit -m"<sua mensagem>"
+    git push origin master
 
 ### Url Partterns, Views and Templates
 - functions based view
@@ -215,10 +248,7 @@ Django req/res cycle img
 - criar pagina Home bootstrap admin
 - criar esquema de templates
 
-# Aula 9
-# Aula 10
-# Aula 11
-# Aula 12
+
 # Aula 13
 # Aula 14
 # Aula 15
