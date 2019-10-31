@@ -252,6 +252,10 @@ Django req/res cycle img
 - Brincado com nosso model
     -       $ python manage.py shell
 
+### Django req/res cycle img
+![django-life-cycle](https://i.stack.imgur.com/rLfSC.jpg)
+
+
 ### Url Partterns, Views
 - url.py e views.py
 - functions based view X class based views
