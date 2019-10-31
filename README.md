@@ -135,6 +135,9 @@ Visão Sistêmica
     - site oficial
     - https://www.shuup.com/django/25-of-the-most-popular-python-and-django-websites/
 
+### Django req/res cycle img
+![django-life-cycle](https://i.stack.imgur.com/rLfSC.jpg)
+
 - python-venv
     -       $ python -m venv meuApp
     -       $ source meuApp/bin/activate
@@ -220,29 +223,18 @@ Django req/res cycle img
 # Aula 11
 
 ### PETSHOP
-- trabalhando com versionamento
-- criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE II
-- correção do exercício de desenvolvimento dos modelos e suas regras no formato Code Review
-
+- trabalhando com versionamento - adicionando novo remote no repositório de do projeto apontando para o repo base
+- classes e seus relacionamentes ManyToOne com ForiengnKey e _set - DEFINITIVO PARTE III
+- apresentação do teste de software com TDD
 
 # Aula 12
 
-### Django req/res cycle img
-![django-life-cycle](https://i.stack.imgur.com/rLfSC.jpg)
+### PETSHOP
+- apresentação do teste de software com TDD - https://twitter.com/unclebobmartin/status/1189574793579941889
+- trabalhando com versionamento - atualizando o repositório
+- criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE IV 
+    - financeiro-estoque
 
-    git add .
-    git commit -m"<sua mensagem>"
-    git push origin master
-
-### Url Partterns, Views and Templates
-- functions based view
-- fat model skinny controllers
-- https://docs.djangoproject.com/en/2.2/topics/http/urls/
-
-
-### App Code
-- Brincado com nosso model
-    -       $ python manage.py shell
 
 ### PETSHOP
 - criar pagina Home bootstrap admin
@@ -250,8 +242,43 @@ Django req/res cycle img
 
 
 # Aula 13
+
+### PETSHOP
+- trabalhando com versionamento - atualizando o repositório
+- criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE IV 
+    - finalizar financeiro-estoque
+
+### App Code
+- Brincado com nosso model
+    -       $ python manage.py shell
+
+### Url Partterns, Views
+- url.py e views.py
+- functions based view X class based views
+- https://docs.djangoproject.com/en/2.2/topics/http/urls/
+
+### Templates
+- 1° TEMPLATES em settings (templates)
+- 2° criar pasta na raiz com nossos templates (index.hmtl)
+- 3° criar função na view.py com retorno 'render' para o arquivo de templete (index.hmtl)
+- Extras
+    - condicionais e loops
+    - herança de templates com blocks - incluir template modelo do Bootstap
+    - include de temlates
+
+
 # Aula 14
+
+### Templates
+
+- arquivos estáticos
+
+
 # Aula 15
+
+- form com submit via ajax.
+pegar os parametros e 
+
 # Aula 16
 # Aula 17
 # Aula 18
