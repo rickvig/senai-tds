@@ -248,6 +248,12 @@ Django req/res cycle img
 - criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE IV 
     - finalizar financeiro-estoque
 
+
+# Aula 14
+- trabalhando com versionamento - atualizando o repositório
+- criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE IV 
+    - finalizar financeiro-estoque
+
 ### App Code
 - Brincado com nosso model
     -       $ python manage.py shell
@@ -269,13 +275,7 @@ Django req/res cycle img
     - condicionais e loops
     - herança de templates com blocks - incluir template modelo do Bootstap
     - include de temlates
-
-
-# Aula 14
-
-### Templates
-
-- arquivos estáticos
+    - arquivos estáticos
 
 
 # Aula 15
