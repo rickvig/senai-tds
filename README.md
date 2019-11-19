@@ -139,22 +139,25 @@ Visão Sistêmica
 ![django-life-cycle](https://i.stack.imgur.com/rLfSC.jpg)
 
 - python-venv
-    -       $ python -m venv meuApp
-    -       $ source meuApp/bin/activate
-    -       $ pip install django
+
+        $ python -m venv meuApp
+        $ source meuApp/bin/activate
+        $ pip install django
 
 - Pluguin VSCode
     - Pytho DonJayanmanne
     - Django Template/Snipptes bibhasdn
 
 - Start Django project
-    -       $ django-admin startproject meuApp
+        
+        $ django-admin startproject meuApp
 
 - Entendendo e rodando primeiro projeto Django
     - Arvore de arquivos
-    -       $ python manager.py migrate
-    -       $ python manage.py runserver
-    -       $ python manage.py createsuperuser
+
+            $ python manager.py migrate
+            $ python manage.py runserver
+            $ python manage.py createsuperuser
 
 - Django Admin
     - Usuários
@@ -171,12 +174,17 @@ Django req/res cycle img
 
 ### Apps
 - *SQLite*
-    -       $ python manage.py startapp <sua-app>
+    
+        $ python manage.py startapp <sua-app>
+
 - add app em INSTALLED_APPS (settings.py)
-    -       $ python manage.py runserver
+    
+        $ python manage.py runserver
+
 - Criar model
-    -       $ python manage.py makemigrations
-    -       $ python manage.py migrate
+        
+        $ python manage.py makemigrations
+        $ python manage.py migrate
 
 - Personalizando Django
     - fields
@@ -185,78 +193,97 @@ Django req/res cycle img
     - search_fields
 
 ### Projeto PETSHOP
-- criar um repo no git hub para cada equipe
-- start no projeto
-- criação dos CRUD de admin
-- criação das classes e seus relacionamentes de models (DER)
+- Criar um repo no git hub para cada equipe
+- Start no projeto
+- Criação dos CRUD de admin
+- Criação das classes e seus relacionamentes de models (DER)
 
 
 # Aula 7 - Continuação Projeto petshop
 
 ### PETSHOP
-- trabalhando com versionamento
-- criação das classes e seus relacionamentes de models (DER)
+- Trabalhando com versionamento
+- Criação das classes e seus relacionamentes de models (DER)
 
 
 # Aula 8
 
 ### PETSHOP
-- trabalhando com versionamento
-- criação das classes e seus relacionamentes de models (DER) - em equipe
+- Trabalhando com versionamento
+- Criação das classes e seus relacionamentes de models (DER) - em equipe
 
 
 # Aula 9
 
 ### PETSHOP
-- trabalhando com versionamento
-- criação das classes e seus relacionamentos de models (DER) - DEFINITIVO PARTE I
-- exercício de desenvolvimento dos modelos e suas regras
+- Trabalhando com versionamento
+- Criação das classes e seus relacionamentos de models (DER) - DEFINITIVO PARTE I
+- Exercício de desenvolvimento dos modelos e suas regras
 
 
 # Aula 10
 
 ### PETSHOP
-- trabalhando com versionamento
-- criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE II
-- correção do exercício de desenvolvimento dos modelos e suas regras no formato Code Review
+- Trabalhando com versionamento
+- Criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE II
+- Correção do exercício de desenvolvimento dos modelos e suas regras no formato Code Review
 
 # Aula 11
 
 ### PETSHOP
-- trabalhando com versionamento - adicionando novo remote no repositório de do projeto apontando para o repo base
-- classes e seus relacionamentes ManyToOne com ForiengnKey e _set - DEFINITIVO PARTE III
-- apresentação do teste de software com TDD
+- Trabalhando com versionamento - adicionando novo remote no repositório de do projeto apontando para o repo base
+- Classes e seus relacionamentes ManyToOne com ForiengnKey e _set - DEFINITIVO PARTE III
+- Apresentação do teste de software com TDD
 
 # Aula 12
 
 ### PETSHOP
-- apresentação do teste de software com TDD - https://twitter.com/unclebobmartin/status/1189574793579941889
-- trabalhando com versionamento - atualizando o repositório
-- criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE IV 
+- Apresentação do teste de software com TDD - https://twitter.com/unclebobmartin/status/1189574793579941889
+- Trabalhando com versionamento - atualizando o repositório
+- Criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE IV 
     - financeiro-estoque
 
 
 ### PETSHOP
-- criar pagina Home bootstrap admin
-- criar esquema de templates
+- Criar pagina Home bootstrap admin
+- Criar esquema de templates
 
 
 # Aula 13
 
 ### PETSHOP
-- trabalhando com versionamento - atualizando o repositório
-- criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE IV 
+- Trabalhando com versionamento - atualizando o repositório
+- Criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE IV 
     - finalizar financeiro-estoque
 
 
 # Aula 14
-- trabalhando com versionamento - atualizando o repositório
-- criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE IV 
+- Trabalhando com versionamento - atualizando o repositório
+- Criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE IV 
     - finalizar financeiro-estoque
 
 ### App Code
 - Brincado com nosso model
-    -       $ python manage.py shell
+        
+        $ python manage.py shell
+
+
+# Aula 15
+- Revisão de Programação
+    - Programação estruturada
+
+# Aula 16
+- Revisão de Programação
+    - Programação estruturada
+
+# Aula 17
+- Revisão de Programação
+    - Programação PP
+
+# Aula 18
+- Trabalhando com versionamento - atualizando o repositório (repositório refatorado)
+- Criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE IV 
+    - apresentar ultima parte do estoque implementado
 
 ### Django req/res cycle img
 ![django-life-cycle](https://i.stack.imgur.com/rLfSC.jpg)
@@ -277,15 +304,10 @@ Django req/res cycle img
     - include de temlates
     - arquivos estáticos
 
-
-# Aula 15
-
 - form com submit via ajax.
 pegar os parametros e 
 
-# Aula 16
-# Aula 17
-# Aula 18
+
 # Aula 19
 # Aula 20
 

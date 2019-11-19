@@ -1,6 +1,6 @@
 from pessoa import Pessoa
-from pessoaFisica import PessoaFisica
-from pessoaJuridica import PessoaJuridica
+from pessoa.pessoaFisica import PessoaFisica
+from pessoa.pessoaJuridica import PessoaJuridica
 
 pessoa = Pessoa("Henrique", "(44) 99941-0923")
 # print(pessoa)
