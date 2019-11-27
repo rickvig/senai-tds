@@ -291,7 +291,6 @@ Django req/res cycle img
 
 # Aula 19
 - Introdução a urls, views e templates (MTV - Django)
-- Exemplos básicos do 
 
 ### Django req/res cycle img
 
