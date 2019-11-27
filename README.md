@@ -258,6 +258,8 @@ Django req/res cycle img
 
 
 # Aula 14
+
+### PETSHOP
 - Trabalhando com versionamento - atualizando o repositório
 - Criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE IV 
     - finalizar financeiro-estoque
@@ -281,6 +283,8 @@ Django req/res cycle img
     - Programação OO
 
 # Aula 18
+
+### PETSHOP
 - Trabalhando com versionamento - atualizando o repositório (repositório refatorado)
 - Criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE IV 
     - Implementando ultima regra de negócio de movimentação de estoque para execução de ordem de serviço
@@ -294,12 +298,13 @@ Django req/res cycle img
 ![django-life-cycle](https://i.stack.imgur.com/rLfSC.jpg)
 
 
-### Url Partterns, Views
+### PETSHOP
+#### Url Partterns, Views
 - url.py e views.py
 - functions based view X class based views
 - https://docs.djangoproject.com/en/2.2/topics/http/urls/
 
-### Templates
+#### Templates
 - 1° TEMPLATES em settings (templates)
 - 2° criar pasta na raiz com nossos templates (index.hmtl)
 - 3° criar função na view.py com retorno 'render' para o arquivo de templete (index.hmtl)
@@ -307,8 +312,9 @@ Django req/res cycle img
 
 # Aula 20
 
-- Loops for no Jinja
-- Arquivos estáticos
+### PETSHOP
+- Loops for no Jinja - Exemplo da lista de animais
+- Arquivos estáticos da template (CSS, JS, Vendor, etc..)
 - Herança de templates com blocks - incluir template modelo do Bootstap
 - Consulta no models para apresentar na view
 
