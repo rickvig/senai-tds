@@ -124,7 +124,6 @@ Visão Sistêmica
 - exercicio surpresa
     
 
-
 ## Aula 5 - Conceitos MVC e MTV Introdução ao Danjo Framework (Web Framework)
 - Corrigir exercicio
 - Criar repositporios para equipes
@@ -134,9 +133,6 @@ Visão Sistêmica
     - fullstack framework
     - site oficial
     - https://www.shuup.com/django/25-of-the-most-popular-python-and-django-websites/
-
-### Django req/res cycle img
-![django-life-cycle](https://i.stack.imgur.com/rLfSC.jpg)
 
 - python-venv
 
@@ -228,25 +224,22 @@ Django req/res cycle img
 - Criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE II
 - Correção do exercício de desenvolvimento dos modelos e suas regras no formato Code Review
 
+
 # Aula 11
 
 ### PETSHOP
 - Trabalhando com versionamento - adicionando novo remote no repositório de do projeto apontando para o repo base
 - Classes e seus relacionamentes ManyToOne com ForiengnKey e _set - DEFINITIVO PARTE III
-- Apresentação do teste de software com TDD
+- Apresentação de teste de software com TDD (Test Driven Development)
+
 
 # Aula 12
+- Apresentação do teste de software com TDD - https://twitter.com/unclebobmartin/status/1189574793579941889
 
 ### PETSHOP
-- Apresentação do teste de software com TDD - https://twitter.com/unclebobmartin/status/1189574793579941889
 - Trabalhando com versionamento - atualizando o repositório
 - Criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE IV 
     - financeiro-estoque
-
-
-### PETSHOP
-- Criar pagina Home bootstrap admin
-- Criar esquema de templates
 
 
 # Aula 13
@@ -274,20 +267,24 @@ Django req/res cycle img
 - Revisão de Programação
     - Programação estruturada
 
+
 # Aula 16
 - Revisão de Programação
     - Programação estruturada
 
+
 # Aula 17
 - Revisão de Programação
     - Programação OO
+
 
 # Aula 18
 
 ### PETSHOP
 - Trabalhando com versionamento - atualizando o repositório (repositório refatorado)
 - Criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE IV 
-    - Implementando ultima regra de negócio de movimentação de estoque para execução de ordem de serviço
+    - Implementando ultima regra de negócio de movimentação de estoque para execução de ordem de serviço via TDD
+
 
 # Aula 19
 - Introdução a urls, views e templates (MTV - Django)
@@ -320,6 +317,8 @@ Django req/res cycle img
 
 - Template aplicada no projeto:
 https://startbootstrap.com/previews/sb-admin-2/
+
+
 
 # Equipes:
 
