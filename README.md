@@ -278,14 +278,19 @@ Django req/res cycle img
 
 # Aula 17
 - Revisão de Programação
-    - Programação PP
+    - Programação OO
 
 # Aula 18
 - Trabalhando com versionamento - atualizando o repositório (repositório refatorado)
 - Criação das classes e seus relacionamentes de models (DER) - DEFINITIVO PARTE IV 
-    - apresentar ultima parte do estoque implementado
+    - Implementando ultima regra de negócio de movimentação de estoque para execução de ordem de serviço
+
+# Aula 19
+- Introdução a urls, views e templates (MTV - Django)
+- Exemplos básicos do 
 
 ### Django req/res cycle img
+
 ![django-life-cycle](https://i.stack.imgur.com/rLfSC.jpg)
 
 
@@ -298,18 +303,18 @@ Django req/res cycle img
 - 1° TEMPLATES em settings (templates)
 - 2° criar pasta na raiz com nossos templates (index.hmtl)
 - 3° criar função na view.py com retorno 'render' para o arquivo de templete (index.hmtl)
-- Extras
-    - condicionais e loops
-    - herança de templates com blocks - incluir template modelo do Bootstap
-    - include de temlates
-    - arquivos estáticos
-
-- form com submit via ajax.
-pegar os parametros e 
 
 
-# Aula 19
 # Aula 20
+
+- Loops for no Jinja
+- Arquivos estáticos
+- Herança de templates com blocks - incluir template modelo do Bootstap
+- Consulta no models para apresentar na view
+
+
+- Template aplicada no projeto:
+https://startbootstrap.com/previews/sb-admin-2/
 
 # Equipes:
 
