@@ -151,7 +151,7 @@ Visão Sistêmica
 - Entendendo e rodando primeiro projeto Django
     - Arvore de arquivos
 
-            $ python manager.py migrate
+            $ python manage.py migrate
             $ python manage.py runserver
             $ python manage.py createsuperuser
 
